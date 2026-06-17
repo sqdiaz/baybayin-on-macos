@@ -16,3 +16,6 @@ Keyboard layout for Baybayin (B17+) on macOS
 * The dollar sign ($) has been replaced with the Philippine peso sign (₱).
 * `command` key-based shortcuts will work as intended, such as `command` + `a` (select all) and `command` + `v` (paste).
 * Commas and periods can still be added when `caps lock` is enabled. Otherwise, ᜵ and ᜶ will be used. All other non-alphabetic characters remain mapped as they were on the US QWERTY keyboard.
+
+### Compatibility
+This has only been tested on macOS Tahoe 26.x.x.
