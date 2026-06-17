@@ -2,7 +2,7 @@
 Keyboard layout for Baybayin (B17+) on macOS
 
 ### How to install
-1. Download `Baybayin.keylayout`.
+1. Download `Baybayin.keylayout`. Alternatively, you can skip to step 4 by downloading `Baybayin (B17+).dmg` (generated with Ukelele) and installing the keyboard directly (ᜓuse at your own risk!).
 2. Go to `~\Library\Keyboard Layouts` (user-specific) or `\Library\Keyboard Layouts` (system, all users).
 3. Copy `Baybayin.layout` and paste it in your desired `Keyboard Layouts` folder.
 4. Logout of your device and then login or restart.
