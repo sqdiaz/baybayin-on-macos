@@ -10,8 +10,10 @@ Keyboard layout for Baybayin (B17+) on macOS
 6. Use the 🌐︎/`fn` key to switch input source.
 
 ### Features
-* Both the pamudpod and the krus-kudlit are available, but the default is the former. Press `shift` + `X` if you want to use the krus-kudlit.
+* Both the pamudpod and the krus-kudlit are available, but the default is the former. Press `shift` + `X` if you want to use the krus-kudlit. Otherwise, `X` produces the pamudpod.
 * Zambales `ra` (ᜟ) is available. Press `shift` + `R` to use this character. Otherwise, it will default to the usual `ra` (ᜍ).
+* `nga` (ᜅ) is produced by `shift` + `G`.
+* Standalone vowels (A, E/I, O/U) are produced by `shift` + `A`/`E`/`I`/`O`/`U (ᜀ, ᜁ, ᜂ).
 * A full English keyboard is available with `caps lock` (lower case, non-shift characters) and `caps lock` + `shift` (upper case, shift characters). It might be faster to just switch input source, but this is an option nevertheless.
 * The dollar sign ($) has been replaced with the Philippine peso sign (₱).
 * `command` key-based shortcuts will work as intended, such as `command` + `a` (select all) and `command` + `v` (paste).
